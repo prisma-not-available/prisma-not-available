@@ -1,7 +1,7 @@
-# 👋 Yo, I'm John — The guy who writes code that *eventually works* 😭🔥
+# 👋 Yo, I'm Austin
 
-Full-stack dev in the making. Currently grinding MERN stack + Java  
-while building projects na parang real-world apps (kahit minsan sabog pa 😅).
+I’m a student developer focusing on Java, JavaScript, and building practical projects that sharpen my fundamentals.
+Right now, I'm especially diving into backend development, API design, and full-stack workflows.
 
 ---
 
@@ -58,32 +58,21 @@ while building projects na parang real-world apps (kahit minsan sabog pa 😅).
 
 ### 🛠 Ticketing System (MERN)
 Role-based, comment threads, real-world status flow, validators, rate limiting, Cloudinary uploads.  
-> *Yes, this took my sanity but worth it.*  
-👉 *Repo link here kapag uploaded mo na*
+👉 *Repo are privates for personal reasons (might make it public soon)*
 
 ### 💳 POS Inventory System (Java)
 CLI-based system with complete logic + admin tools.  
-👉 *Repo link here after you push sa GitHub*
+👉 *Repo are privates for personal reasons (might make it public soon)*
 
 ---
 
 ## 📊 GitHub Stats (para muka akong may tulog)
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=prisma-not-available&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma-not-available&layout=compact&theme=radical)
 
 ---
 
-## 🔍 Fun Facts
-- I debug with console.log like an ex stalking their ex  
-- My code works… after 3 restarts and 1 breakdown  
-- Currently collecting `npm install` trauma
-
 ---
-
-## 📫 Contact Me
-- **Email:** *your email here*  
-- **Facebook / Messenger:** *optional*  
-- **Discord:** *optional*
 
 ---
 ✨ *Thanks for passing by. I push code, not bugs (most days).*  
