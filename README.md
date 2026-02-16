@@ -44,10 +44,10 @@ I'm a student developer who actually knows what they're building (most of the ti
 ## 💼 What I've Built
 
 ### 🛒 **POS & Inventory System** (JavaFX)
-A desktop application that actually manages inventory without breaking. Built with Java, JavaFX, and Scene Builder. No database needed—efficient and straightforward. This is where I learned that not everything needs to be cloud-hosted.
+A desktop application that actually manages inventory without breaking. Built with Java, JavaFX, and Scene Builder. No database implemented tho. This is where I learned that not everything needs to be cloud-hosted.
 
 ### 🎓 **School Ticketing System** (MERN + TailwindCSS)
-A full-stack solution for student concerns and administrative tasks. Features role-based access, JWT authentication with httpOnly cookies, rate limiting for API protection, and real-time updates. Proof that I can build something schools might actually use.
+A full-stack solution for student concerns and administrative tasks. Features role-based access, JWT authentication with httpOnly cookies, rate limiting for API protection. Its a capstone proposal turned real.
 
 ### 💬 **Chat System** (MERN + WebSockets)
 A simple messenger application where I first learned about WebSockets and real-time communication. No fancy features—just authentication, live messaging, and the satisfaction of seeing messages appear instantly.
@@ -61,6 +61,7 @@ My personal development diary with authentication. This is where I experimented 
 
 - **TypeScript**: Writing type-safe code and pretending to understand generics.
 - **Next.js + PostgreSQL**: Planning my next full-stack adventure once I'm comfortable with TypeScript.
+- **Better-Auth**: Using this auth helper to reduce my work in my future projects.
 
 ---
 
