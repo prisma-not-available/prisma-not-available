@@ -80,6 +80,9 @@ A desktop application for managing inventory, built with Java, JavaFX, and Scene
 ![Stats](https://github-readme-stats.vercel.app/api?username=prisma-not-available&show_icons=true&theme=radical&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma-not-available&layout=compact&theme=radical&hide_border=true)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=prisma-not-available&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 *Student developer. Curious by default. Building things that work.*
