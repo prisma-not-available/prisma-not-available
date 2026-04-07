@@ -71,7 +71,8 @@ A desktop application for managing inventory, built with Java, JavaFX, and Scene
 - 💼 Land a developer internship
 - 🐘 Explore PostgreSQL and expand beyond MongoDB
 - 🔨 Keep shipping projects and sharpening what I know
-
+- Learn postgresql with drizzle and neon
+- Integrate bun in my project
 ---
 
 ## 📊 GitHub Stats
